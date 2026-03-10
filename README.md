@@ -50,15 +50,15 @@ La aplicación muestra diferentes mensajes según el estado de la validación:
   
 <img width="530" height="440" alt="Captura de pantalla 2026-03-08 165648" src="https://github.com/user-attachments/assets/3301d29f-e16f-4e6a-b140-00b01de910b1" />
 
-3.  **No coincidentes**: "Las contraseñas deben ser iguales".
+2.  **No coincidentes**: "Las contraseñas deben ser iguales".
   
 <img width="528" height="429" alt="Captura de pantalla 2026-03-08 165718" src="https://github.com/user-attachments/assets/b7b8b20c-70d0-41f9-9845-4327845e4e2e" />
 
-5.  **Falla de complejidad**: "La contraseña no cumple con las especificaciones".
+3.  **Falla de complejidad**: "La contraseña no cumple con las especificaciones".
  
 <img width="529" height="431" alt="Captura de pantalla 2026-03-08 165751" src="https://github.com/user-attachments/assets/7a7f7362-aa8d-4cd0-a058-b4f845cca9d3" />
 
-7.  **Validación exitosa**: "Contraseña valida".
+4.  **Validación exitosa**: "Contraseña valida".
     
 <img width="529" height="431" alt="Captura de pantalla 2026-03-08 165832" src="https://github.com/user-attachments/assets/33dc7899-176e-43e5-89cc-2bd541a060be" />
 
