@@ -12,7 +12,8 @@
 * [cite_start]Se seleccionó la plantilla **Windows Form App (.NET Framework)** en Visual Studio[cite: 7].
 * [cite_start]El proyecto se nombró formalmente como `Ciber_Infrestructura_2026-A_HolaMundo`[cite: 9, 12].
 
-![Creación del Proyecto](img/fig1_proyecto.png)
+![Creación del Proyecto]<img width="1119" height="724" alt="Captura de pantalla 2026-03-08 164350" src="https://github.com/user-attachments/assets/0ed115ae-2397-4aa6-9a9e-25aae07efb34" />
+
 [cite_start]*(Referencia a la creación del proyecto con el template .NET Framework [cite: 8])*
 
 ### 2. Diseño de la Interfaz (UI)
