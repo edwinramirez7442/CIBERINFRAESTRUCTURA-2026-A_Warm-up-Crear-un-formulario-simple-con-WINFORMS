@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\bin\Debug\Ciber_Infrestructura_2026-A_HolaMundo.exe.config
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\bin\Debug\Ciber_Infrestructura_2026-A_HolaMundo.exe
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\bin\Debug\Ciber_Infrestructura_2026-A_HolaMundo.pdb
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026-A_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026_A_HolaMundo.Form1.resources
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026_A_HolaMundo.Properties.Resources.resources
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026-A_HolaMundo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026-A_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026-A_HolaMundo.exe
+C:\Users\HP\source\repos\Warm up Crear un formulario simple con WINFORMS\Ciber_Infrestructura_2026-A_HolaMundo\Ciber_Infrestructura_2026-A_HolaMundo\obj\Debug\Ciber_Infrestructura_2026-A_HolaMundo.pdb
